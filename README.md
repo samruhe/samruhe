@@ -22,7 +22,9 @@
 
 <br />
 
-<img align="left" alt="Sam Ruhe's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruhe&layout=compact" />
+---
+
+<img align="left" alt="Sam Ruhe's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruhe&layout=compact&hide_border=true" />
 
 
 [app_website]: https://ruhigmers.com/products/gea
