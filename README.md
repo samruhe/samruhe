@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sam Ruhe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sam Ruhe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sam Ruhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 <br />
@@ -18,7 +18,12 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samruhe&show_icons=true&hide_border=true&count_private=true&hide=stars,prs" />
+<img align="left" alt="Sam Ruhe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samruhe&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,contribs" />
+
+<br />
+
+<img align="left" alt="Sam Ruhe's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruhe&layout=compact" />
+
 
 [app_website]: https://ruhigmers.com/products/gea
 [ruhigmers]: https://ruhigmers.com
