@@ -4,7 +4,7 @@
 - I’m currently working on a [New App][app_website]
 - Hoping to officially launch this year!
 - Earning my Masters in Management from Lehigh University
-- Love taking pictures, especially landscape and cars!
+- Love taking pictures, especially landscape and [cars][photo_website]!
 
 ### Connect with me:
 
@@ -27,6 +27,7 @@
 
 
 [app_website]: https://ruhigmers.com/products/gea
+[photo_website]: https://samruhe.com
 [ruhigmers]: https://ruhigmers.com
 [twitter]: https://twitter.com/samruhe
 [instagram]: https://instagram.com/vixltsdn
