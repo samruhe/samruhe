@@ -26,7 +26,7 @@
 <img align="left" alt="Sam Ruhe's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruhe&layout=compact&hide_border=true" />
 
 
-[app_website]: https://ruhigmers.com/products/gea
+[app_website]: https://ruhigmers.com/products/fara
 [photo_website]: https://samruhe.com
 [ruhigmers]: https://ruhigmers.com
 [twitter]: https://twitter.com/samruhe
