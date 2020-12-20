@@ -2,7 +2,7 @@
 
 ## About Me
 - I’m currently working on a [New App][app_website]
-- Hoping to officially launch this year!
+- Hoping to officially launch this year! Available on the [App Store][app_store_website]
 - Earning my Masters in Management from Lehigh University
 - Love taking pictures, especially landscape and [cars][photo_website]!
 
@@ -32,3 +32,4 @@
 [twitter]: https://twitter.com/samruhe
 [instagram]: https://instagram.com/vixltsdn
 [linkedin]: https://linkedin.com/in/samruhe
+[app_store_website]: https://apps.apple.com/us/app/gea/id1541526581
