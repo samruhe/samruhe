@@ -2,8 +2,9 @@
 
 ## About Me
 - I’m currently working on a [New App][app_website]
-- Hoping to officially launch this year! Available on the [App Store][app_store_website]
-- Earning my Masters in Management from Lehigh University
+- Officially launched this year! Available on the [App Store!][app_store_website]
+- Earned my Masters in Business Management from Lehigh University
+- Earned my Bachelors in Computer Sceince from Lehigh University
 - Love taking pictures, especially landscape and [cars][photo_website]!
 
 ### Connect with me:
