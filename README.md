@@ -17,11 +17,6 @@
 
 ---
 
-<img align="left" alt="Sam Ruhe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samruhe&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,contribs" />
-
-<br />
-<br />
-
 <img align="left" alt="Sam Ruhe's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruhe&layout=compact&hide_border=true" />
 
 
